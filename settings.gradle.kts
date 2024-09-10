@@ -1,1 +1,1 @@
-rootProject.name = "com.bankpick"
+rootProject.name = "com.auth"
