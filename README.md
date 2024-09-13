@@ -8,7 +8,7 @@ clone the repository
 
 
 ```bash
-git clone https://github.com/arseniyGoryagin/AuthApp.git
+git clone https://github.com/arseniyGoryagin/AuthApp_backend.git
 ```
 
 you should make a .env file containing you mongo db connect link and the server secret for generating jwt's
