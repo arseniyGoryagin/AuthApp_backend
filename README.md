@@ -1,6 +1,6 @@
 # AuthApp Backend
 
-This is a backend for my kotlin andoid app https://github.com/arseniyGoryagin/AuthApp
+This is a backend for my kotlin android app https://github.com/arseniyGoryagin/AuthApp
 
 ## Installation
 
